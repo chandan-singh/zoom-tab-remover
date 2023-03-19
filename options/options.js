@@ -12,6 +12,7 @@ const initData = {
 
 // Saves options to chrome.storage
 async function saveInterval() {
+
   let interval = document.getElementById('interval').value;
   interval = interval * 1000;
 
