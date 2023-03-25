@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Zoom Tab Remover",
-  "description": "Automatically close the Zoom tabs left open by the Zoom meeting",
+  "description": "Automatically closes the Zoom tabs left open by the Zoom meeting launcher",
   "version": "1.0.0",
   "icons": {
     "16": "images/icon-16.png",

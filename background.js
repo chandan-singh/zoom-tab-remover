@@ -6,7 +6,7 @@ const initData = {
     "https://*.zoom.us/j/*",
     "https://zoom.us/s/*",
     "https://*.zoom.us/s/*",
-    "https://www.bing.com/*"
+    // "https://www.bing.com/*"
   ]
 };
 
