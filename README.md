@@ -4,19 +4,19 @@
 
 An extension for Google Chrome that closes any lingering Zoom tabs that are left open after the Zoom meetings are opened. After 5 seconds, these Zoom tabs will shut by themselves thanks to this add-on. (configurable to 10, 15, 30,  seconds and more).
 
-Bluejeans, Microsoft Team, Amazon Chime, and any other launcher application's connections (URLs) can be added here as well.
+Bluejeans, Microsoft Team, Amazon Chime, and any other launcher application's URLs can be added here as well.
 
-It safe and secure. No analytics. No ads. Completely free. No data leaves your computer via this extension. It doesn't send or receive any data from any servers.
+It is safe and secure. No analytics. No ads. Completely free. No data leaves your computer via this extension. This extension doesn't send any info away from your computer. It doesn't send any information to other servers.
 
 ## Version 1.0.0
 
 # Settings
 
-For the basic use, the default settings should be enough. You may consider leaving these settings unchanged.
+The default options should be adequate for most users. You might want to keep the current values.
 
-However, you have the control to change these settings if you prefer. 
+You can, however, adjust these parameters as you see fit.
 
-You can click on the extension, which should open a pop-up to change the settings:
+When you click on the extension, a window will appear where you can make adjustments:
 
 ![Screenshot of Options](assets/screenshot_1.png)
 
