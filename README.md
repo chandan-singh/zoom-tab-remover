@@ -4,6 +4,8 @@ An extension for Google Chrome that closes any lingering Zoom tabs that are left
 
 Bluejeans, Microsoft Team, Amazon Chime, and any other launcher application's connections (URLs) can be added here as well.
 
+It safe and secure. No analytics. No ads. Completely free. No data leaves your computer via this extension. It doesn't send or receive any data from any servers.
+
 ## Version 1.0.0
 
 # Settings
@@ -63,7 +65,7 @@ As the title suggests, you can always reset the settings back to default setting
 
 Absolutely.
 
-This extension keeps all the information locally. There is no communication (upload/download) related to your browsing history to (or from) any server.
+This extension keeps all the information locally in your browser. There is no communication (upload/download) related to your browsing history to (or from) any server. No data leaves your computer from this extension. No analytics. No ads. Completely free.
 
 ### The tabs are closed too early. What should I do?
 
@@ -86,6 +88,21 @@ Here are some examples of *invalid* pattern matches:
 
 <table class="fixed-table width-full"><tbody><tr><th style="margin-left:0; padding-left:0">Bad pattern</th><th style="margin-left:0; padding-left:0">Why it's bad</th></tr><tr><td><code>https://www.google.com</code></td><td>No <em>path</em></td></tr><tr><td><code>https://*foo/bar</code></td><td>'*' in the <em>host</em> can be followed only by a '.' or '/'</td></tr><tr><td><code>https://foo.*.bar/baz&nbsp;</code></td><td>If '*' is in the <em>host</em>, it must be the first character</td></tr><tr><td><code>http:/bar</code></td><td>Missing <em>scheme</em> separator ("/" should be "//")</td></tr><tr><td><code>foo://*</code></td><td>Invalid <em>scheme</em></td></tr></tbody></table>
 
+
+## What should be the URL for closing Microsoft Teams launcher tabs?
+
+``` 
+https://teams.microsoft.com/dl/launcher/*
+```
+
+## Any test URLs for testing?
+
+```
+https://zoom.us/test
+https://zoom.us/postattendee
+https://zoom.us/wc/leave
+```
+
 ## Issues/ Bugs
 
 Report [Here](https://github.com/chandan-singh/zoom-tab-remover/issues)
@@ -93,3 +110,11 @@ Report [Here](https://github.com/chandan-singh/zoom-tab-remover/issues)
 ## Contributions
 
 Welcome contributors! Thanks in advance.
+
+## Disclaimer and Notices
+
+Zoom Video Communications, Inc. owns the copyright for "Zoom." This extension is not made or supported by Zoom Video Communications in any way.
+
+All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, trademarks and brands does not imply endorsement.
+
+We assume no responsibility or liability for any errors or omissions or loss due to the use of this extension.
