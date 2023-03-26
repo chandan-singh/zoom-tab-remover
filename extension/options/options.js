@@ -3,9 +3,12 @@ const initData = {
   urls: [
     "https://zoom.us/postattendee",
     "https://zoom.us/j/*",
-    "https://*.zoom.us/j/*",
     "https://zoom.us/s/*",
+    "https://zoom.us/wc/leave",
+    "https://*.zoom.us/j/*",
     "https://*.zoom.us/s/*",
+    "https://*.zoom.us/wc/leave",
+    "https://*.zoom.us/postattendee",
     // "https://www.bing.com/*"
   ]
 };
