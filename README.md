@@ -18,15 +18,15 @@ However, you have the control to change these settings if you prefer.
 
 You can click on the extension, which should open a pop-up to change the settings:
 
-![Screenshot of Delay interval](assets/screenshot_1.png)
+![Screenshot of Options](assets/screenshot_1.png)
 
-![Screenshot of Delay interval](assets/screenshot_2.png)
+![Screenshot of Settings](assets/screenshot_2.png)
 
 Or, you can click on the options in extension menu (right click on the extension)
 
-![Screenshot of Delay interval](assets/screenshot_3.png)
+![Screenshot of Options](assets/screenshot_3.png)
 
-![Screenshot of Delay interval](assets/screenshot_4.png)
+![Screenshot of Settings](assets/screenshot_4.png)
 
 
 ## 1. Delay Interval
@@ -115,6 +115,7 @@ Welcome contributors! Thanks in advance.
 
 ## Privacy Policy
 
+[Link](/privacy.md)
 
 ## Disclaimer and Notices
 
@@ -123,5 +124,3 @@ Zoom Video Communications, Inc. owns the copyright for "Zoom." This extension is
 All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, trademarks and brands does not imply endorsement.
 
 We assume no responsibility or liability for any errors or omissions or loss due to the use of this extension.
-
-
