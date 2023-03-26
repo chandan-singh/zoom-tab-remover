@@ -1,5 +1,7 @@
 # Zoom Tab Remover
 
+![Zoom-tab-remover icon](extension/images/icon-128.png)
+
 An extension for Google Chrome that closes any lingering Zoom tabs that are left open after the Zoom meetings are opened. After 5 seconds, these Zoom tabs will shut by themselves thanks to this add-on. (configurable to 10, 15, 30,  seconds and more).
 
 Bluejeans, Microsoft Team, Amazon Chime, and any other launcher application's connections (URLs) can be added here as well.
@@ -98,9 +100,9 @@ https://teams.microsoft.com/dl/launcher/*
 ## Any test URLs for testing?
 
 ```
-https://zoom.us/test
 https://zoom.us/postattendee
 https://zoom.us/wc/leave
+https://zoom.us/test
 ```
 
 ## Issues/ Bugs
@@ -111,6 +113,9 @@ Report [Here](https://github.com/chandan-singh/zoom-tab-remover/issues)
 
 Welcome contributors! Thanks in advance.
 
+## Privacy Policy
+
+
 ## Disclaimer and Notices
 
 Zoom Video Communications, Inc. owns the copyright for "Zoom." This extension is not made or supported by Zoom Video Communications in any way.
@@ -118,3 +123,5 @@ Zoom Video Communications, Inc. owns the copyright for "Zoom." This extension is
 All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, trademarks and brands does not imply endorsement.
 
 We assume no responsibility or liability for any errors or omissions or loss due to the use of this extension.
+
+
