@@ -10,6 +10,9 @@ It is safe and secure. No analytics. No ads. Completely free. No data leaves you
 
 ## Version 1.0.0
 
+# Install Extension
+[https://chrome.google.com/webstore/detail/zoom-tab-remover/aipgpbkgomhfcdkibhkooenbgimpiigf](https://chrome.google.com/webstore/detail/zoom-tab-remover/aipgpbkgomhfcdkibhkooenbgimpiigf)
+
 # Settings
 
 The default options should be adequate for most users. You might want to keep the current values.
